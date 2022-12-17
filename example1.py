@@ -1,2 +1,0 @@
-print('runoob')
-print('new')
